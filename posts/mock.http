@@ -4,3 +4,7 @@ Content-Type: application/json
 {
 	"title": "First Post"
 }
+
+###
+GET http://localhost:4000/posts
+Content-Type: application/json
