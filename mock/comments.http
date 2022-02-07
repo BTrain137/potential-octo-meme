@@ -6,5 +6,5 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:4001/posts/123/comments
+GET http://localhost:4001/posts/e795fc6a/comments
 Content-Type: application/json
